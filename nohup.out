@@ -1,0 +1,18 @@
+[2024-04-21 10:53:45 +0000] [5714] [INFO] Running on http://0.0.0.0:5001 (CTRL + C to quit)
+[2024-04-21 10:53:45 +0000] [5713] [INFO] Running on http://0.0.0.0:5001 (CTRL + C to quit)
+[2024-04-21 11:17:55 +0000] [5856] [INFO] Running on http://0.0.0.0:5003 (CTRL + C to quit)
+[2024-04-21 11:17:55 +0000] [5855] [INFO] Running on http://0.0.0.0:5003 (CTRL + C to quit)
+/home/ubuntu/.local/share/virtualenvs/pavlinovWhishper--uiOgb7M/lib/python3.10/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[2024-04-21 11:52:34 +0000] [6016] [INFO] Running on http://0.0.0.0:5003 (CTRL + C to quit)
+[2024-04-21 11:52:34 +0000] [6017] [INFO] Running on http://0.0.0.0:5003 (CTRL + C to quit)
+[2024-04-21 11:55:20 +0000] [6068] [INFO] Running on http://0.0.0.0:5001 (CTRL + C to quit)
+[2024-04-21 11:55:20 +0000] [6067] [INFO] Running on http://0.0.0.0:5001 (CTRL + C to quit)
+/home/ubuntu/.local/share/virtualenvs/pavlinovWhishper--uiOgb7M/lib/python3.10/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/home/ubuntu/.local/share/virtualenvs/pavlinovWhishper--uiOgb7M/lib/python3.10/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/home/ubuntu/.local/share/virtualenvs/pavlinovWhishper--uiOgb7M/lib/python3.10/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/home/ubuntu/.local/share/virtualenvs/pavlinovWhishper--uiOgb7M/lib/python3.10/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
